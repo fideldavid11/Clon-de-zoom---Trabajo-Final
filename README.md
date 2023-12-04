@@ -1,16 +1,8 @@
-# cloneflutter
+# Clon de zoom 
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Esta es nuestra propuesta de trabajo final de la materia Introduccion al desarrollo de aplicaciones moviles impartida por Freidy Nuñez y esta propuesta fue elaborada por:
+# Hillary Rodriguez 2021-2080
+# Fidel David Peguero Pineda 2021-0620
+# Emerson Cabrera 2021-0594
+# Argenis Marrero 2021-2038
+# Joel Custodio 2020-10563

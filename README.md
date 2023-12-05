@@ -10,7 +10,7 @@ Este archivo `readme.md` es la propuesta de trabajo final para la materia "Intro
 - Joel Custodio 2020-10563
 
 ## Documentación del Sistema
-[Documento del sistema](https://drive.google.com/file/d/1Ay1-FwtXdNjWebpakgU1r4D25iFdATQq/view?usp=sharing)
+[Documentación del sistema](https://drive.google.com/file/d/1Ay1-FwtXdNjWebpakgU1r4D25iFdATQq/view?usp=sharing)
 
 ## Funcionamiento del Sistema
 [Funcionamiento del sistema](https://drive.google.com/file/d/1IVo2ler6dCOMgYGePvVmRlem-xLF937N/view?usp=sharing)

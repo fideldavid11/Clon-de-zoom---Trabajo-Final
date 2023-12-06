@@ -19,4 +19,4 @@ Este archivo `readme.md` es la propuesta de trabajo final para la materia "Intro
 
 [Recorrido por el codigo fuente](https://itlaedudo.sharepoint.com/:v:/s/Fidel/Ed5Wx0lkhZFAhidZ8KBwHX0BAuty-y3RiT6GeAmR-C9qRQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=CaHxin)
 
-para que la aplicacion corra en el sistema, en Visual Studio, vayan a la terminal y tipeen la seguiente setencia `flutter run` y la aplicacion se ejecutara.
+para que la aplicacion corra en el sistema, en Visual Studio, vayan a la terminal y tipeen la seguiente sentencia `flutter run` y la aplicacion se ejecutara.
